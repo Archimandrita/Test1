@@ -5,7 +5,7 @@ open System.Drawing
 //C:\Program Files\DevExpress 14.1\Components\Bin\Framework
  
 let form = new Form()
-
+ 
 form.Text <- "sdd"
 
 form.BackColor <- Color.Beige
