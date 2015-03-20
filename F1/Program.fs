@@ -15,7 +15,7 @@ b.Text <- "press me"
 
 type x = Form
      
-let f = new x()
+let f = new x()   
 //test
  
 f.Show()
